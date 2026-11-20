@@ -50,7 +50,7 @@ To use this project and experiment with the model, follow the steps below:
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/yourusername/phishing-website-detection.git
+   git clone https://github.com/anjalisingh202021-cloud/AI-Powered-Phishing-URL.git
    ```
 
 2. **Install the necessary dependencies**:
@@ -86,4 +86,4 @@ Each model was evaluated using metrics such as accuracy, precision, recall, F1-s
 
 ## Credits
 
-This project was created and maintained by **Afthab33**. Special thanks to the various open-source resources and datasets that contributed to the development of this project.
+This project was created and maintained by **Anjali Singh**. Special thanks to the various open-source resources and datasets that contributed to the development of this project.
